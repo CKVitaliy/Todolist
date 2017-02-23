@@ -1,0 +1,24 @@
+ul {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    width: 40%;
+    border: 1px solid #333;
+    background: #eee;
+    float: left;
+}
+li {
+    padding: 3px;
+    margin: 1px;
+    border: hidden;
+}
+#clear {
+    clear: both;
+}
+#Del {
+    margin: 0px 0px 0px 10px;
+}
+#clean {
+    margin-left: 41%;
+
+}
